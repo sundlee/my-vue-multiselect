@@ -49,4 +49,12 @@ export default {
   width: 600px;
   margin: auto auto;
 }
+.container pre {
+  padding: 10px;
+  text-align: left;
+  background-color: #e9e9e9;
+}
+.container .form__label {
+  color: red;
+}
 </style>
