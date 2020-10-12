@@ -1,5 +1,5 @@
 # my-vue-multiselect
-[vue-multiselect](ttps://vue-multiselect.js.org/)의 기능들을 예제별로 선택해서 체험해볼 수 있는 sample페이지 입니다. 
+[vue-multiselect](https://vue-multiselect.js.org/)의 기능들을 예제별로 선택해서 체험해볼 수 있는 sample페이지 입니다. 
 
 * Single select
 * Single select (object)
